@@ -21,8 +21,8 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta.
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
-
+   - Editor de preferencia (en este curso se usará https://www.online-ide.com/)
+   - En caso de utilizar estos archivos directamente en tu computadora puedes utilizar la versión de Python 3.10 o superior.
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 3. [Instrucciones específicas del curso].
 
