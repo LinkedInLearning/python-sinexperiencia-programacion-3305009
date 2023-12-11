@@ -30,7 +30,7 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/python-sin-experiencia-en-programacion
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFz7df8xBvUcQ/learning-public-crop_675_1200/0/1702284039109?e=2147483647&v=beta&t=4Zsc4TpVvvJUOu-wsIrvEs2MlcNWy6VUkFUif12KbZk
 
 [1]: # (End of ES-Instruction ###############################################################################################)
