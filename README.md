@@ -16,7 +16,7 @@ Las carpetas están estructuradas para corresponder a los vídeos del curso. La 
 
 ## Instalación
 
-Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta.
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. En caso contrario, también puedes seguir las siguientes instrucciones de instalación: 
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
    - Editor de preferencia (en este curso se usará https://www.online-ide.com/)
